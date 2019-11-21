@@ -1,3 +1,2 @@
 # enkf
-enkf write by myself
-enkf and seir model for forecast outbreak of disease in future. 
+an framework combined enkf and seir model for forecasting outbreak of infectious disease 
